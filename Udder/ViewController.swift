@@ -16,7 +16,11 @@ class ViewController: UIViewController {
     }
     
     override func viewDidLayoutSubviews() {
-        <#code#>
+        //
+    }
+    
+    override func performSegue(withIdentifier identifier: String, sender: Any?) {
+        //
     }
 
 
